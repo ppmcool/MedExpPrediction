@@ -26,7 +26,7 @@ def get_requirements() -> List[
         requirement_list = [i.replace('\n', "") for i in requirement_list]
     if HYPHEN_E_DOT in requirement_list:
         requirement_list.remove(HYPHEN_E_DOT)
-    print(requirement_list)
+    #print(requirement_list)
     return requirement_list
 
 
