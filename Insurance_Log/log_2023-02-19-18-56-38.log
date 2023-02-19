@@ -1,0 +1,4 @@
+[2023-02-19 18:56:39,228] root - INFO - Reading From DataBase
+[2023-02-19 18:56:39,700] root - INFO - Dropping columns
+[2023-02-19 18:56:39,705] root - INFO - found columns:Index(['age', 'sex', 'bmi', 'children', 'smoker', 'region', 'expenses'], dtype='object')
+[2023-02-19 18:56:39,705] root - INFO - size of data :(1338, 7)

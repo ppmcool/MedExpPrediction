@@ -8,10 +8,10 @@ ExpensePrediction.egg-info/requires.txt
 ExpensePrediction.egg-info/top_level.txt
 Insurance/__init__.py
 Insurance/config.py
-Insurance/exception.py
 Insurance/predictor.py
 Insurance/utils.py
 Insurance/components/__init__.py
 Insurance/entity/__init__.py
+Insurance/exception/__init__.py
 Insurance/logger/__init__.py
 Insurance/pipeline/__init__.py

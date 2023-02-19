@@ -1,0 +1,5 @@
+[2023-02-19 18:52:54,575] root - INFO - Reading From DataBase
+[2023-02-19 18:52:55,072] root - INFO - found columns:Index(['_id', 'Unnamed: 0', 'age', 'sex', 'bmi', 'children', 'smoker',
+       'region', 'expenses'],
+      dtype='object')
+[2023-02-19 18:52:55,072] root - INFO - size of data :(1338, 9)
